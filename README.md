@@ -15,4 +15,5 @@
 >4) YouTube Download : 
     This widget help to download the footage.
     The function name : **youtube_down.py**
-    The package from *pypi.org*: [pytube](https://pypi.org/project/googlemaps/)
+    The main package from *pypi.org*: [pytube 12.1.2](https://pypi.org/project/pytube/)
+    You also need ssl package for TLS/SSL socket objects *pypi.org*: [ssl 1.16](https://pypi.org/project/ssl/)
