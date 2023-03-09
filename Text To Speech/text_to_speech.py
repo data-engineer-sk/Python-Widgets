@@ -4,7 +4,7 @@
 # By Samuel Ko
 
 from pygame import mixer
-# Google Text to Speech API
+# Google Text to Speech API gTTS (Google Text-to-Speech)
 # Check the language support list by typing "gtts-cli --all" in terminal
 from gtts import gTTS
 import os  
