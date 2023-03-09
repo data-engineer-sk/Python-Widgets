@@ -3,7 +3,7 @@
     This widget makes use of the API from Google Map to get the specific latitude & longitude for a given location.  This is a function call which 
     facilitate to use GEO Chart in Power BI for better data visualisation.
     The function name : **get_geometric_info.py**
-    The package : [googlemaps] (https://pypi.org/project/googlemaps/)
+    The package : [googlemaps](https://pypi.org/project/googlemaps/)
 >2) PDF to MS Word
     This widget convert pdf file to MS word format for further editing purpose.
     The function name : **pdf_to_word.py**
