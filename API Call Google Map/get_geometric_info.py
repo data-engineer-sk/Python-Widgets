@@ -17,7 +17,7 @@ def get_geometric(inAddress):
         # Create Temperary List for storage
         goBack = []
 
-        # GOOGLE_MAPS_API_KEY = 'AIzaSyDQShqrTds5KMCQyZ1U7dQdiL4gCDXRPGE'
+        # GOOGLE_MAPS_API_KEY = 'AXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXE'
         
         gmap_client = googlemaps.Client(GOOGLE_MAPS_API_KEY);
 
