@@ -16,7 +16,7 @@
     The main package from *pypi.org*: [gTTS 2.3.1](https://pypi.org/project/googlemaps/)
     
 >4) YouTube Download : 
-    This widget help to download the footage.
+    This widget help to download the video footage not having a Premium Account in YouTube and tired of watching ads on it.
     The function name : **youtube_down.py**
     The main package from *pypi.org*: [pytube 12.1.2](https://pypi.org/project/pytube/)
     You also need ssl package for TLS/SSL socket objects *pypi.org*: [ssl 1.16](https://pypi.org/project/ssl/)
